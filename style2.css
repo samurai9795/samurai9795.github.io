@@ -76,3 +76,23 @@ body{
 .button{
 	font-size:50px;
 }
+
+body{
+  	background-color:#fafafa;
+}
+
+#search-form{
+	width: 500px;
+	height: 40px;
+	padding-left: 10px;
+	padding-right: 20px;
+  box-shadow:1px 1px 1px #e4e4e4;
+  border:9px;
+  border-radius:3px;
+  outline:none;
+   }
+#search-panel{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
